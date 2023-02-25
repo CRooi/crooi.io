@@ -1,0 +1,114 @@
+@font-face {
+    font-family: 'Hubot Sans';
+    src:
+        url('../font//Hubot-Sans.woff2') format('woff2 supports variations'),
+        url('../font//Hubot-Sans.woff2') format('woff2-variations');
+    font-weight: 200 400 600 700 900;
+    font-stretch: 75% 90% 125%;
+}
+
+#background {
+    font-family: 'Hubot Sans';
+    padding-top: 15vh;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 76ch;
+    display: block;
+    margin: auto;
+}
+
+#title {
+    font-family: 'Hubot Sans';
+    font-weight: 700;
+    font-stretch: 125%;
+    font-size: 45px;
+}
+
+.subTitle {
+    font-family: 'Hubot Sans';
+    font-weight: 600;
+    font-stretch: 125%;
+    font-size: 32px;
+}
+
+.socialNetwork {
+    font-family: 'Hubot Sans';
+    font-weight: 400;
+    font-stretch: 90%;
+    background-color: #F9FAFB;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    text-decoration-color: transparent;
+    color: #000;
+    border-radius: 0.375rem;
+    text-decoration: none;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: .875rem;
+    transition-property: color,background-color,border-color,text-decoration-color,fill,stroke;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: .3s;
+    margin-right: 10px;
+}
+
+.github:hover {
+    color: #fff;
+    background-color: #373738;
+}
+
+.twitter:hover {
+    color: #fff;
+    background-color: #4DA9E8;
+}
+
+.instagram:hover {
+    color: #fff;
+    background: linear-gradient(to right, #E96355, #C53899);
+}
+
+.bilibili:hover {
+    color: #fff;
+    background-color: #EA7A99;
+}
+
+.arrow {
+    font-size: 32px;
+    margin-left: auto;
+    text-decoration: none;
+    opacity: .5;
+    transition-property: opacity;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: .3s;
+}
+
+.arrow:hover {
+    opacity: 1;
+}
+
+.card {
+    transition-property: color,background-color,border-color,text-decoration-color,fill,stroke;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: .3s;
+    text-decoration: none;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 0.375rem;
+    background-color: #F9FAFB;
+    transition-property: color,background-color,border-color,text-decoration-color,fill,stroke;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: .3s;
+    overflow: hidden;
+}
+
+.card:hover {
+    background-color: #F3F4F6;
+}
+
+a {
+    color: inherit;
+}
