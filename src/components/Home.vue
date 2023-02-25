@@ -24,7 +24,7 @@
     <div style="display: grid; grid-gap: 1rem; gap: 1rem; grid-template-columns: repeat(2,minmax(0,1fr));">
         <a href="https://projectbs.cn" class="card">
             <div style="height: 100%; display: flex; align-items: center;">
-                <img src="../assets/img/ceiv2Logo.png" width="48px" />
+                <img src="../assets/img/ceiv2Logo.png" width="38px" />
                 <div style="margin-left: 10px;">
                     CEIV2
                     <br>
@@ -36,7 +36,7 @@
         </a>
         <a href="https://ri.projectbs.cn" class="card">
             <div style="height: 100%; display: flex; align-items: center;">
-                <img src="../assets/img/riLogo.png" width="48px" />
+                <img src="../assets/img/riLogo.png" width="38px" />
                 <div style="margin-left: 10px;">
                     Realtime Intensity
                     <br>
@@ -48,7 +48,7 @@
         </a>
         <a href="https://projectbs.cn" class="card">
             <div style="height: 100%; display: flex; align-items: center;">
-                <img src="../assets/img/pbsLogo.png" width="48px" />
+                <img src="../assets/img/pbsLogo.png" width="38px" />
                 <div style="margin-left: 10px;">
                     Project BS
                     <br>
@@ -60,7 +60,7 @@
         </a>
         <a href="https://twitter.com/CrossRoadszlk" class="card">
             <div style="height: 100%; display: flex; align-items: center;">
-                <img src="../assets/img/croadLogo.png" width="48px" />
+                <img src="../assets/img/croadLogo.png" width="38px" />
                 <div style="margin-left: 10px;">
                     CrossRoad™
                     <br>
