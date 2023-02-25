@@ -2,7 +2,7 @@
 
 ## Credits
 
-Creative from [ddiu.io](https://github.com/ddiu8081/ddiu.io) which under [MIT license](https://github.com/ddiu8081/ddiu.io/blob/main/LICENSE).
+<b>Creative from [ddiu.io](https://github.com/ddiu8081/ddiu.io) which under [MIT license](https://github.com/ddiu8081/ddiu.io/blob/main/LICENSE).</b>
 
 UI component library is [TDesign](https://github.com/Tencent/tdesign-vue-next).
 
